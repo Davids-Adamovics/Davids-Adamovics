@@ -13,8 +13,7 @@ Visit my [🪐portfolio🪐](https://www.dadamov.info/) to learn more
 
 ## Connect With Me 📫
 Feel free to reach out for collaborations or just a friendly chat:
-- **Email:** [dadamovics325@gmail.com](mailto:dadamovics325@gmail.com)
-- **Phone:** +371 23073388
+- **Email:** [davidsadamovicss@gmail.com](mailto:davidsadamovicss@gmail.com)
 
 Let's colab and build something amazing :)
 
