@@ -1,6 +1,6 @@
 # Hello there, I'm Dāvids Adamovičs 👋
 
-Welcome to my GitHub profile! This is my digital playground where I post projects and sometimes break them
+Welcome to my GitHub profile! This is my digital sandbox where I push projects and sometimes break them
 
 Visit my [🪐portfolio🪐](https://www.dadamov.info/) to learn more
 ## About Me 🚀
@@ -9,7 +9,7 @@ Visit my [🪐portfolio🪐](https://www.dadamov.info/) to learn more
 - **Hobbies:** I'm passionate about Martial Arts and have a keen interest in Design
 
 ## Current Interests 🌐
-- I’m currently diving deeper and deeper into both front-end and back-end development to master the full stack of web technologies.
+- Currently working on a game called PandaMonium (learn more on my portfolio)
 
 ## Connect With Me 📫
 Feel free to reach out for collaborations or just a friendly chat:
